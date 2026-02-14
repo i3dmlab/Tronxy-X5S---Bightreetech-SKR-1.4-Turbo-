@@ -1,5 +1,5 @@
 # Tronxy-X5S---Bightreetech-SKR-1.4-Turbo-TMC2209
-In this repo you find the configuratio.h, configuration_adv.h and platformio.ini files to use to code the Marlin firmware for a Tronxy X5S with a Bigtreetech SKR 1.4 Turbo board and TCM2209 drivers
+In this repo you find the configuration.h, configuration_adv.h and platformio.ini files to use to code the Marlin firmware for a Tronxy X5S with a Bigtreetech SKR 1.4 Turbo board and TCM2209 drivers
 
 Basic: Marlin bugfix 2.1.x Release
 
