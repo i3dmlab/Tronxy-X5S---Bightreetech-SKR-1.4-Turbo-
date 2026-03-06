@@ -1,8 +1,9 @@
 # Tronxy-X5S---Bightreetech-SKR-1.4-Turbo-TMC2209
-In this repo you find the configuration.h, configuration_adv.h and platformio.ini files to use to code the Marlin firmware for a Tronxy X5S with a Bigtreetech SKR 1.4 Turbo board and TCM2209 drivers
+In this repo you find the configuration.h, configuration_adv.h and platformio.ini files to use to code the Marlin firmware for a Tronxy X5S with a Bigtreetech SKR 1.4 Turbo board and TMC2209 drivers
 
 Basic: Marlin 2.1.x bugfix Release
 
+in this configuration X/Y/Z TMC2209 drivers need a pin to be cutted out to use physical endstops 
 Hotend fan is connected with 2.4 pin of the mainboard  
 
 I am not the creator of Marlin, I am not the creator of SKR boards, I am not the creator of Tronxy X5S printers. 
