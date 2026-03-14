@@ -4,6 +4,7 @@ In this repo you find the configuration.h, configuration_adv.h and platformio.in
 Basic: Marlin 2.1.x bugfix Release
 
 In this configuration X/Y/Z TMC2209 drivers need a pin to be cutted out to use physical endstops. 
+12V PSU with stock 12V hotend and 12 V hotbed
 
 Hotend fan is connected with 2.4 pin of the mainboard  
 
